@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\UsersManager\\usersAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\controllers\\apicandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\controllers\\apicandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|d:\\code\\usersmanager\\usersapi\\usersapi\\migrations\\20240728212146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31EFC5F-6CE5-4905-984D-50DEC92B3639}|usersAPI\\usersAPI.csproj|solutionrelative:usersapi\\migrations\\20240728212146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APICandidatesController.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Controllers\\APICandidatesController.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Controllers\\APICandidatesController.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Controllers\\APICandidatesController.cs",
+              "RelativeToolTip": "usersAPI\\Controllers\\APICandidatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:58:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Controllers\\CandidatesController.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "usersAPI\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:29:27.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Startup.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Startup.cs",
+              "RelativeToolTip": "usersAPI\\Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:19:54.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240728212146_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Migrations\\20240728212146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Migrations\\20240728212146_InitialCreate.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Migrations\\20240728212146_InitialCreate.cs",
+              "RelativeToolTip": "usersAPI\\Migrations\\20240728212146_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:21:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Program.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Program.cs",
+              "RelativeToolTip": "usersAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:20:37.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "usersAPI\\appsettings.json",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\appsettings.json",
+              "RelativeToolTip": "usersAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T14:41:12.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDBContext.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Models\\MainDBContext.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Models\\MainDBContext.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Models\\MainDBContext.cs",
+              "RelativeToolTip": "usersAPI\\Models\\MainDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:27:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "usersAPI\\Models\\Candidate.cs",
+              "ToolTip": "D:\\Code\\UsersManager\\usersAPI\\usersAPI\\Models\\Candidate.cs",
+              "RelativeToolTip": "usersAPI\\Models\\Candidate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:22:28.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
